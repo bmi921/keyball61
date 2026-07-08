@@ -1,0 +1,5 @@
+# Reference checkouts used during investigation (not part of this patch repo)
+/qmk_firmware/
+/qmk_firmware_v0.22.14/
+/keyball_yowkees/
+/holykeebs_qmk/
